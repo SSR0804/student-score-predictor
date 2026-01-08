@@ -2,7 +2,8 @@
 # Student Score Predictor (Linear Regression)
 
 A simple ML project to predict student exam scores based on study hours.
-This project demonstrates data loading, EDA, model training, evaluation, a saved model, and a tiny Streamlit app.
+This project demonstrates data loading, EDA, model training, evaluation, a saved model, and a tiny Streamlit app. 
+While using these files and folders make sure to create a folder named 'notebooks' as per the project structure.  
 
 ## Learnings
 - Data preprocessing & sanity checks
