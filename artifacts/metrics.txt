@@ -1,0 +1,5 @@
+MAE: 1.27 
+RMSE: 1.49 
+R2: 0.988 
+Coefficient: 6.0385 
+Intercept: 33.4305 
